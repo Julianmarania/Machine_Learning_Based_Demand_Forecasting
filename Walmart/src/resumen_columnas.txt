@@ -1,0 +1,110 @@
+Columna: id
+  Valores únicos: 26559
+  Valores nulos: 0
+  Tipo de dato: object
+
+Columna: item_id
+  Valores únicos: 3049
+  Valores nulos: 0
+  Tipo de dato: object
+
+Columna: dept_id
+  Valores únicos: 7
+  Valores nulos: 0
+  Tipo de dato: object
+
+Columna: cat_id
+  Valores únicos: 3
+  Valores nulos: 0
+  Tipo de dato: object
+
+Columna: store_id
+  Valores únicos: 10
+  Valores nulos: 0
+  Tipo de dato: object
+
+Columna: state_id
+  Valores únicos: 3
+  Valores nulos: 0
+  Tipo de dato: object
+
+Columna: d
+  Valores únicos: 1941
+  Valores nulos: 0
+  Tipo de dato: object
+
+Columna: sales
+  Valores únicos: 133
+  Valores nulos: 0
+  Tipo de dato: int64
+
+Columna: date
+  Valores únicos: 1941
+  Valores nulos: 0
+  Tipo de dato: object
+
+Columna: wm_yr_wk
+  Valores únicos: 278
+  Valores nulos: 0
+  Tipo de dato: int64
+
+Columna: weekday
+  Valores únicos: 7
+  Valores nulos: 0
+  Tipo de dato: object
+
+Columna: wday
+  Valores únicos: 7
+  Valores nulos: 0
+  Tipo de dato: int64
+
+Columna: month
+  Valores únicos: 12
+  Valores nulos: 0
+  Tipo de dato: int64
+
+Columna: year
+  Valores únicos: 6
+  Valores nulos: 0
+  Tipo de dato: int64
+
+Columna: event_name_1
+  Valores únicos: 30
+  Valores nulos: 891500
+  Tipo de dato: object
+
+Columna: event_type_1
+  Valores únicos: 4
+  Valores nulos: 891500
+  Tipo de dato: object
+
+Columna: event_name_2
+  Valores únicos: 4
+  Valores nulos: 968500
+  Tipo de dato: object
+
+Columna: event_type_2
+  Valores únicos: 2
+  Valores nulos: 968500
+  Tipo de dato: object
+
+Columna: snap_CA
+  Valores únicos: 2
+  Valores nulos: 0
+  Tipo de dato: int64
+
+Columna: snap_TX
+  Valores únicos: 2
+  Valores nulos: 0
+  Tipo de dato: int64
+
+Columna: snap_WI
+  Valores únicos: 2
+  Valores nulos: 0
+  Tipo de dato: int64
+
+Columna: sell_price
+  Valores únicos: 785
+  Valores nulos: 214985
+  Tipo de dato: float64
+

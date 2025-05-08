@@ -10,6 +10,19 @@ POC/data/raw/sales.csv
 POC/data/DB/
 POC/data/raw/processed_data.csv
 POC/data/raw/Dataframe_Final_Data.csv
+
+# Walmart
+
+
+Walmart/data/raw/calendar.csv
+Walmart/data/raw/sales.csv
+Walmart/data/raw/sell_prices.csv
+Walmart/data/raw/sample_submission.csv
+Walmart/data/raw/total_data.csv
+Walmart/data/data_base/DB_Walmart
+Walmart/data/raw/final_data.csv
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
