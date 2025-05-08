@@ -1,15 +1,15 @@
-# Los nuestros
-
-data/raw/categories.csv
-data/raw/cities.csv
-data/raw/countries.csv
-data/raw/customers.csv
-data/raw/employees.csv
-data/raw/products.csv
-data/raw/sales.csv
-data/DB/
-data/raw/processed_data.csv
-data/raw/Dataframe_Final_Data.csv
+# POC
+*.DS_Store
+POC/data/raw/categories.csv
+POC/data/raw/cities.csv
+POC/data/raw/countries.csv
+POC/data/raw/customers.csv
+POC/data/raw/employees.csv
+POC/data/raw/products.csv
+POC/data/raw/sales.csv
+POC/data/DB/
+POC/data/raw/processed_data.csv
+POC/data/raw/Dataframe_Final_Data.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
